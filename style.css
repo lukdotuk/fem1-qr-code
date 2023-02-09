@@ -26,7 +26,7 @@ p {
   font-weight: 400;
   margin: 15px 20px;
 }
-.main {
+main {
   background-color: hsl(0, 0%, 100%);
   border-radius: 16px;
   width: 320px;
@@ -37,6 +37,9 @@ p {
 .qr-code {
   width: 100%;
   border-radius: 16px;
+}
+footer {
+  margin-top: 10px;
 }
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
